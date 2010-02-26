@@ -838,9 +838,6 @@
                 <property name="inputMask">
                  <string/>
                 </property>
-                <property name="text">
-                 <string/>
-                </property>
                </widget>
               </item>
               <item row="1" column="0">
